@@ -8,7 +8,8 @@ An Xcode color theme inspired by the colors used in Apple's WWDC 2017 slides.
 2. Open `/Library/Developer/Xcode/UserData/FontAndColorThemes/` folder 
 3. Paste the file right there 
 4. Reopen Xcode
-5. Enjoy 
+5. Choose a new theme in preferences
+6. Enjoy 
 
 ## Color Scheme 
 
