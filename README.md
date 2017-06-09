@@ -14,11 +14,11 @@ An Xcode color theme inspired by the colors used in Apple's WWDC 2017 slides.
 ## Color Scheme 
 
 <p align="center">
-  <img src ="https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/colors.png" />
+  <img src ="https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/colors_0.2.png" />
 </p>
 
 ## Screenshot 
 
 <p align="center">
-  <img src ="https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/xcode-screenshot.png" />
+  <img src ="https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/xcode-screenshot-v0.2.png" />
 </p>
