@@ -1,4 +1,6 @@
-# WWDC '17 Xcode Theme
+![Image](https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/WWDC17_logo.png)
+
+# Xcode Theme 
 
 An Xcode color theme inspired by the colors used in Apple's WWDC 2017 slides. 
 
