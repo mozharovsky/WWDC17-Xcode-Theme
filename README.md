@@ -14,7 +14,7 @@ An Xcode color theme inspired by the colors used in Apple's WWDC 2017 slides.
 ## Color Scheme 
 
 <p align="center">
-  <img src ="https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/colors_0.2.png" />
+  <img src ="https://github.com/mozharovsky/WWDC17-Xcode-Theme/blob/master/Assets/colors_0.3.png" />
 </p>
 
 ## Screenshot 
