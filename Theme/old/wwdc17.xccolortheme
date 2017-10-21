@@ -69,7 +69,7 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFont - 10.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.180336 0.193491 0.204938 1</string>
+	<string>0.172837 0.191979 0.21032 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
@@ -87,11 +87,11 @@
 		<key>xcode.syntax.character</key>
 		<string>0.129458 0.62473 0.771841 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.424056 0.563793 0.424193 1</string>
+		<string>0.456501 0.500006 0.54679 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.424056 0.563793 0.424193 1</string>
+		<string>0.456501 0.500006 0.54679 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.424056 0.563793 0.424193 1</string>
+		<string>0.456501 0.500006 0.54679 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.429789 0.712009 0.534927 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -121,7 +121,7 @@
 		<key>xcode.syntax.number</key>
 		<string>0.55868 0.504223 0.744928 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.829628 0.834355 0.758167 1</string>
+		<string>0.891779 0.884743 0.897062 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.992816 0.790647 0.450348 1</string>
 		<key>xcode.syntax.string</key>
